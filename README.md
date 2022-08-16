@@ -11,3 +11,7 @@ Ejecutar las siguientes lineas para clonar y visualizar el proyecto:
 - `cd ./tpReact_ej4-5`
 - `npm install`
 - `npm start`
+
+## Deploy en Netlify
+
+[https://tpreact-ej4-5.netlify.app/](https://tpreact-ej4-5.netlify.app/)
